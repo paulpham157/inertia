@@ -53,9 +53,9 @@
   },
   "dependencies": {
     "@types/lodash-es": "^4.17.12",
-    "axios": "^1.11.0",
-    "lodash-es": "^4.17.21",
-    "qs": "^6.9.0"
+    "axios": "^1.13.5",
+    "lodash-es": "^4.17.23",
+    "qs": "^6.14.2"
   },
   "devDependencies": {
     "@types/deepmerge": "^2.2.0",
@@ -63,7 +63,7 @@
     "@types/nprogress": "^0.2.0",
     "@types/qs": "^6.9.0",
     "es-check": "^9.3.1",
-    "esbuild": "^0.25.0",
+    "esbuild": "^0.25.1",
     "esbuild-node-externals": "^1.6.0",
     "typescript": "^4.9.4"
   }
